@@ -10,3 +10,4 @@ def define_posicoes(linha, coluna, orientacao, tamanho):
             posicao_no_tabuleiro.append([linha,i])
     
     return posicao_no_tabuleiro
+
