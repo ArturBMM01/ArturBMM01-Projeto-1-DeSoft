@@ -140,3 +140,7 @@ def posicao_valida(frota, linha, coluna, orientacao, tamanho):
                         return False
     
     return True
+
+
+#_________________________________________QUESTION 7_________________________________________
+#____________________________________código_no_programa.py___________________________________
